@@ -1,0 +1,9 @@
+vscode:
+  extensions:
+    - vscjava.vscode-java-test@0.22.3:qwXOIvA9XTSccfoQjgULTg==
+    - HaaLeo.vscode-extension-test@0.1.1:vAKK8ZeUNYRR8NV+2IdhRg==
+    - hbenl.vscode-test-explorer@2.19.1:2dP09nbHm3ScIYwcx8M5GQ==
+    - Swellaby.vscode-rust-test-adapter@0.11.0:UCqr+VIDide9gBXalCfKtw==
+
+tasks:
+    - command: export TZ="Asia/Tokyo"

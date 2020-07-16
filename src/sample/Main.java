@@ -2,10 +2,11 @@ package sample;
 
 public class Main {
 
+    // Git test
 	public static void main(String[] args) {
 		 AttendanceService service = new AttendanceService();
 
-		//参加者追加
+        //参加者追加
 		try {
 			service.addPerson(new Person("大橋", true));
 			service.addPerson(new Person("田中", false));
